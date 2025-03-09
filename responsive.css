@@ -1,0 +1,40 @@
+@media only screen and (max-width:1199.9px){
+    .bg1{
+        background-position: -140px;
+    }
+}
+
+@media only screen and (max-width:890px){
+    .bg1{
+        background-position: center center;
+    }
+
+    .tag{
+        justify-content: center;
+        margin-right: 0%;
+        margin-top: 30%;
+    }
+
+    .tag h1{
+        letter-spacing: -5px;
+        font-size: 4em;
+        text-align: center;
+    }
+
+    .about-text {
+        margin-right: 0px;
+        margin-left: 0px;
+        font-size: 1.3em;
+        line-height: 1.6em;
+    }
+
+    .particle {
+        text-align: right;
+        margin-right: 150px;
+        font-size: 1.5em;
+        font-style: italic;
+        font-weight: 400;
+        padding-bottom: 0px;
+    }
+}
+
