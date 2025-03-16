@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-4">
 
-                    <img class="img-fluid" src="http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg">" alt="portrait of a woman">
+                    <img class="img-fluid" src="http://170.187.231.66/~mesh11/wp-content/themes/starter_for_josh_site/images/port1.jpg">" alt="portrait of a woman">
                     <h4 class="article-title">A PORTRAIT</h4>
                     <p class="date">Friday, November 10, 2030</p>
                     <p class="article-p">
@@ -42,7 +42,7 @@
                 </div>
                 <div class="col-md-4">
 
-                    <img class="img-fluid" src="http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port2.jpg">" alt="portrait of a woman">
+                    <img class="img-fluid" src="http://170.187.231.66/~mesh11/wp-content/themes/starter_for_josh_site/images/port2.jpg">" alt="portrait of a woman">
                     <h4 class="article-title">A PORTRAIT</h4>
                     <p class="date">Friday, November 10, 2030</p>
                     <p class="article-p">
@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-md-4">
 
-                    <img class="img-fluid" src="http://170.187.231.66/~mesh1/wp-content/themes/starter_for_josh_site/images/port3.jpg">" alt="portrait of a woman">
+                    <img class="img-fluid" src="http://170.187.231.66/~mesh11/wp-content/themes/starter_for_josh_site/images/port3.jpg">" alt="portrait of a woman">
                     <h4 class="article-title">A PORTRAIT</h4>
                     <p class="date">Friday, November 10, 2030</p>
                     <p class="article-p">
