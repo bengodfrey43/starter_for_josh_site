@@ -7,7 +7,7 @@
 
 
 
-<?php require_once('page_header.php');/* Tells WordPress to include page_header.php */ ?> 
+<?php require_once('page_header.php'); ?> 
 <div class="container-fluid maincontainer">
     <div class="container">
         <div class="row">
