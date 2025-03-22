@@ -58,7 +58,7 @@
     </head>
     <body>
 
-        <header class="container-fluid smallpage-bg">
+        <header class="container-fluid smallpage-bg"><!-- div for the main image the stretches to the edge of the page- -->
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-dark">
                     <!-- Brand -->
@@ -91,7 +91,7 @@
                     </div>
                 </nav>
 
-                <div class="smallpage-tag">
+                <div class="smallpage-tag"><!-- div that holds the content in the middle of the page-->
                     <h1 class="smallpage-title">Projects</h1>
                 </div>
 
