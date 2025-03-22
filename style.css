@@ -136,7 +136,7 @@ footer .navbar-brand{
     padding: 5%;
 }
 
-.smallpage-bg {
+.smallpage-bg{
     width: 100%;
     background: url("images/page_header_bg.jpg") no-repeat center center; /* add the background image */
     background-size: cover;/*make the background image cover the whole div proportionally*/
